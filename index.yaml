@@ -1,0 +1,10 @@
+indexes:
+- kind: Question
+  properties:
+  - name: answerer
+  - name: last_assigned
+  - name: asked
+- kind: Reviewer
+  properties:
+  - name: email
+  - name: last_visit
